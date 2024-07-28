@@ -1,0 +1,10 @@
+##############
+.logs/*.log
+.idea
+*.pyo
+*.pyc
+venv
+frontend/assets/js
+frontend/node_modules
+frontend/package-lock.json
+frontend/views
